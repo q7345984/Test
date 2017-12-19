@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"第一次保存数据");
+    NSLog(@"第二次保存数据");
 }
 
 
